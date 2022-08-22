@@ -10,13 +10,6 @@
 ![JavaScript](https://img.shields.io/badge/Express-090909?style=for-the-badge&logo=Express)
 ![JavaScript](https://img.shields.io/badge/SASS-090909?style=for-the-badge&logo=SASS)
 
-
-<div style='display: flex; justify-content: space-between;'>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baga9898&hide=contribs,issues&show_icons=true&hide_rank=true&bg_color=00000000&border_color=00000000)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baga9898&layout=compact&bg_color=00000000&border_color=00000000)
-
-</div>
 
 =)=)
