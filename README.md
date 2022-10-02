@@ -1,8 +1,8 @@
 ### Hey fellas!
 
 - I'm frontend Developer.
-- Write a little backend on the Node.
-- Interested in programming in iskra js.
+- Write a little backend on Node JS.
+- Interested in programming in Iskra JS.
 
 ### My favourites tools:
 ![React](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=react)
