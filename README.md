@@ -4,7 +4,7 @@
 - my favorite library is React.
 - Write a little backend on Node JS.
 - Write mobile applications on React native.
-- Interested in programming in Iskra JS.
+- Interested in programming on Iskra JS.
 
 ### My favourites tools:
 ![React](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=react)
