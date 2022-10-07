@@ -1,7 +1,9 @@
 ### Hey fellas!
 
 - I'm frontend Developer.
+- my favorite library is React.
 - Write a little backend on Node JS.
+- Write mobile applications on React native.
 - Interested in programming in Iskra JS.
 
 ### My favourites tools:
