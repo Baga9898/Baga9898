@@ -8,12 +8,13 @@
 
 ### My favourites tools:
 ![React](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/Redux-090909?style=for-the-badge&logo=Redux)
-![JavaScript](https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=TypeScript)
+![MobX](https://img.shields.io/badge/MobX-090909?style=for-the-badge&logo=mobX)
+![Redux](https://img.shields.io/badge/Redux-090909?style=for-the-badge&logo=Redux)
+![TypeScript](https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=TypeScript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript)
-![JavaScript](https://img.shields.io/badge/Node.js-090909?style=for-the-badge&logo=Node.js)
-![JavaScript](https://img.shields.io/badge/Express-090909?style=for-the-badge&logo=Express)
-![JavaScript](https://img.shields.io/badge/SASS-090909?style=for-the-badge&logo=SASS)
+![NODE.js](https://img.shields.io/badge/Node.js-090909?style=for-the-badge&logo=Node.js)
+![Express](https://img.shields.io/badge/Express-090909?style=for-the-badge&logo=Express)
+![SASS](https://img.shields.io/badge/SASS-090909?style=for-the-badge&logo=SASS)
 
 
 <!-- <div style='display: flex; justify-content: space-between;'>
