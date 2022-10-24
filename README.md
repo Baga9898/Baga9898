@@ -8,8 +8,9 @@
 
 ### My favourites tools:
 ![React](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=react)
-![MobX](https://img.shields.io/badge/MobX-090909?style=for-the-badge&logo=mobX)
+![Next.js](https://img.shields.io/badge/Next.js-090909?style=for-the-badge&logo=Next.js)
 ![Redux](https://img.shields.io/badge/Redux-090909?style=for-the-badge&logo=Redux)
+![MobX](https://img.shields.io/badge/MobX-090909?style=for-the-badge&logo=mobX)
 ![TypeScript](https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=TypeScript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![NODE.js](https://img.shields.io/badge/Node.js-090909?style=for-the-badge&logo=Node.js)
