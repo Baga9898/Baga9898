@@ -24,7 +24,6 @@
 ![Postgres](https://img.shields.io/badge/postgres-7B437F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-7B437F.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-7B437F?style=for-the-badge&logo=Prisma&logoColor=white)
-![Storybook](https://img.shields.io/badge/-Storybook-7B437F?style=for-the-badge&logo=storybook&logoColor=white)
 
 <!-- <div style='display: flex; justify-content: space-between;'>
 
