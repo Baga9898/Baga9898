@@ -1,6 +1,7 @@
 ![Alt Text](/assets/gifs/sakura.gif)
 
 ### Hey fellas!
+<img align='right' width='140px' src='./assets/gifs/pizza.gif' />
 
 - I'm frontend Developer;
 - My favorite library is `React`;
