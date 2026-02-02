@@ -1,15 +1,18 @@
 ![Alt Text](/assets/gifs/sakura.gif)
 
 ### Hey fellas!
+
 <img align='right' width='140px' src='./assets/gifs/pizza.gif' />
 
-- I'm frontend Developer;
+- I'm Head of Frontend;
 - My favorite library is `React`;
-- Write backend applications on `Nest` & `Express`;
+- Write backend applications on `Express`;
 - Write mobile applications on `React native`;
-- Interested in programming on `Iskra JS`.
+- Interested in programming on `Arduino` & `Iskra JS`;
+- Passionate about 3D modeling in `Blender`.
 
 ### Tools:
+
 ![React](https://img.shields.io/badge/React-7B437F?style=for-the-badge&logo=react&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-7B437F?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-7B437F?style=for-the-badge&logo=redux&logoColor=white)
@@ -20,18 +23,7 @@
 ![NODE.js](https://img.shields.io/badge/Node-7B437F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-7B437F.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-7B437F?style=for-the-badge&logo=Express)
-![NestJS](https://img.shields.io/badge/nestjs-7B437F.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-7B437F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-7B437F.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-7B437F?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Storybook](https://img.shields.io/badge/-Storybook-7B437F?style=for-the-badge&logo=storybook&logoColor=white)
-
-<!-- <div style='display: flex; justify-content: space-between;'>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baga9898&hide=contribs,issues&show_icons=true&hide_rank=true&bg_color=00000000&border_color=00000000)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baga9898&layout=compact&bg_color=00000000&border_color=00000000)
-
-</div> -->
 
 Do good =)=)
