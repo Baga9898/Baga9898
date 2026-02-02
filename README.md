@@ -4,7 +4,7 @@
 
 <img align='right' width='140px' src='./assets/gifs/pizza.gif' />
 
-- I'm Head of Frontend;
+- I'm Head of Frontend at an oil company;
 - My favorite library is `React`;
 - Write backend applications on `Express`;
 - Write mobile applications on `React native`;
