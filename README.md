@@ -7,9 +7,9 @@
 - I'm Head of Frontend at an oil company;
 - My favorite library is `React`;
 - Write backend applications on `Express`;
-- Write mobile applications on `React native`;
-- Interested in programming on `Arduino` & `Iskra JS`;
-- Passionate about 3D modeling in `Blender`.
+- Write mobile applications on `React native` & `Capacitor`;
+- Interested in programming on `STM`, `ESP`, `Arduino` & `Iskra JS`;
+- Passionate about 3D modeling in `Autodesk Inventor` & `Blender`.
 
 ### Tools:
 
